@@ -1,0 +1,23 @@
+[
+    {
+        "email": "jc15@gmail.com",
+        "password": "15061997",
+        "role": "Admin",
+        "phoneNumber": "(021) 5372828",
+        "address": "5 Pankratz Plaza"
+    },
+    {
+        "email": "alphanos@gmail.com",
+        "password": "15061997",
+        "role": "Staff",
+        "phoneNumber": "(021) 5389999",
+        "address": "781 Monterey Pass"
+    },
+    {
+        "email": "customer@gmail.com",
+        "password": "15061997",
+        "role": "Customer",
+        "phoneNumber": "(021) 5372846",
+        "address": "Villa melatimas blok L5 no 19"
+    }
+]

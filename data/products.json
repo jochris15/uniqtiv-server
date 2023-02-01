@@ -1,0 +1,146 @@
+[
+    {
+        "name": "JORDAN SHORT SLEEVE T-SHIRT X OFF-WHITE WHITE",
+        "description": "In his latest partnership with Jordan, Off-White™ founder and designer Virgil Abloh delves into a new chapter of basketball history and Michael Jordan's legacy.",
+        "price": 1500000,
+        "stock": 15,
+        "imgUrl": "https://www.nighshop.com/pub/media/catalog/product/j/o/jordan-short-sleeve-t-shirt-x-off-white-dm0061-054-1_1.jpg",
+        "categoryId": 1,
+        "authorId": 1
+    },
+    {
+        "name": "JORDAN SHORT SLEEVE T-SHIRT X OFF-WHITE BLACK",
+        "description": "In his latest partnership with Jordan, Off-White™ founder and designer Virgil Abloh delves into a new chapter of basketball history and Michael Jordan's legacy.",
+        "price": 1500000,
+        "stock": 10,
+        "imgUrl": "https://www.nighshop.com/pub/media/catalog/product/j/o/jordan-short-sleeve-t-shirt-x-off-white-dm0061-010-1_1.jpg",
+        "categoryId": 1,
+        "authorId": 1
+    },
+    {
+        "name": "BALENCIAGA PARIS LAUREL TEE",
+        "description": "A luxury take on an everyday basic, this Balenciaga tee will bring effortless elegance to your wardrobe staples.",
+        "price": 3000000,
+        "stock": 5,
+        "imgUrl": "https://www.nighshop.com/pub/media/catalog/product/b/a/balenciaga-paris-laurel-tee-white-1_1.jpg",
+        "categoryId": 1,
+        "authorId": 1
+    },
+    {
+        "name": "BALENCIAGA PARIS FLAG TEE",
+        "description": "Take to the city in chic Parisian style with this black cotton tee from Demna Gvasalia-helmed Balenciaga.",
+        "price": 2000000,
+        "stock": 3,
+        "imgUrl": "https://www.nighshop.com/pub/media/catalog/product/b/a/balenciaga-paris-flag-tee-black-multi-1_1.jpg",
+        "categoryId": 1,
+        "authorId": 1
+    },
+    {
+        "name": "STUSSY DICE PATTERN SHIRT YELLOW",
+        "description": "The Dice Pattern Shirt Stussy, from the SP2022 line.",
+        "price": 1300000,
+        "stock": 4,
+        "imgUrl": "https://www.nighshop.com/pub/media/catalog/product/s/t/st_ssy-dice-pattern-shirt-1110215-must-1_1.jpg",
+        "categoryId": 2,
+        "authorId": 2
+    },
+    {
+        "name": "STUSSY DICE PATTERN SHIRT BLACK",
+        "description": "The Dice Pattern Shirt Stussy, from the SP2022 line.",
+        "price": 1300000,
+        "stock": 11,
+        "imgUrl": "https://www.nighshop.com/pub/media/catalog/product/cache/17aa6d5402a3544f52e30840f36a102a/s/t/st_ssy-dice-pattern-shirt-1110215-blac-1_1.jpg",
+        "categoryId": 2,
+        "authorId": 2
+    },
+    {
+        "name": "BALENCIAGA TAB LOGO CHECKED SHIRT",
+        "description": "A luxe take on a lumberjack staple, this plaid Balenciaga shirt is a button-down style that’s made using winter-ready cotton flannel fabric.",
+        "price": 4000000,
+        "stock": 13,
+        "imgUrl": "https://www.nighshop.com/pub/media/catalog/product/b/a/balenciaga-tab-logo-checked-shirt-black-white-1_1.jpg",
+        "categoryId": 2,
+        "authorId": 2
+    },
+    {
+        "name": "THE NORTH FACE 1996 RETRO NUPTSE JACKET",
+        "description": "One of The North Face's most famous styles, the Retro Nupste jacket is the ultimate winter coat.",
+        "price": 5000000,
+        "stock": 15,
+        "imgUrl": "https://www.nighshop.com/pub/media/catalog/product/t/h/the-north-face-1996-retro-nuptse-jacket-nf0a3c8dbdq-1_1.jpg",
+        "categoryId": 3,
+        "authorId": 1
+    },
+    {
+        "name": "NIKE WOMEN'S FAUX FUR SWOOSH JACKET",
+        "description": "The model W NSW JKT FAUX FUR SWSH Nike, from the SP2022 collection.",
+        "price": 2500000,
+        "stock": 9,
+        "imgUrl": "https://www.nighshop.com/pub/media/catalog/product/w/-/w-nsw-jkt-faux-fur-swsh-do3791-010-1_1.jpg",
+        "categoryId": 3,
+        "authorId": 1
+    },
+    {
+        "name": "JORDAN HOODIE X OFF-WHITE BLACK",
+        "description": "In his latest partnership with Jordan, Off-White™ founder and designer Virgil Abloh delves into a new chapter of basketball history and Michael Jordan's legacy.",
+        "price": 4000000,
+        "stock": 11,
+        "imgUrl": "https://www.nighshop.com/pub/media/catalog/product/j/o/jordan-hoodie-x-off-white-dm0059-010-1_1_1.jpg",
+        "categoryId": 4,
+        "authorId": 1
+    },
+    {
+        "name": "JORDAN HOODIE X OFF-WHITE WHITE",
+        "description": "In his latest partnership with Jordan, Off-White™ founder and designer Virgil Abloh delves into a new chapter of basketball history and Michael Jordan's legacy.",
+        "price": 4000000,
+        "stock": 15,
+        "imgUrl": "https://www.nighshop.com/pub/media/catalog/product/cache/17aa6d5402a3544f52e30840f36a102a/j/o/jordan-hoodie-x-off-white-dm0059-054-1_3.jpg",
+        "categoryId": 4,
+        "authorId": 1
+    },
+    {
+        "name": "PALM ANGELS ROSE LOGO POPOVER HOODY",
+        "description": "Francesco Ragazzi's Palm Angels creates graphic-heavy streetwear with emphasis on detail, and this white hoody is no different.",
+        "price": 3500000,
+        "stock": 12,
+        "imgUrl": "https://www.nighshop.com/pub/media/catalog/product/p/a/palm-angels-rose-logo-popover-hoody-white-1_1.jpg",
+        "categoryId": 4,
+        "authorId": 1
+    },
+    {
+        "name": "JAYSON TATUM BOSTON CELTICS NIKE CLASSIC EDITION SWINGMAN JERSEY WHITE",
+        "description": "When you want that step closer to a genuine NBA jersey you can't go wrong with this Jersey.",
+        "price": 1500000,
+        "stock": 2,
+        "imgUrl": "https://www.nighshop.com/pub/media/catalog/product/j/a/jayson-tatum-white-boston-celtics-classic-jersey-1_1.jpg",
+        "categoryId": 5,
+        "authorId": 1
+    },
+    {
+        "name": "NIKE STEPHEN CURRY ROYAL GOLDEN STATE WARRIORS ROYAL JERSEY ICON EDITION",
+        "description": "When you want that step closer to a genuine NBA jersey you can't go wrong with this Jersey.",
+        "price": 1500000,
+        "stock": 3,
+        "imgUrl": "https://www.nighshop.com/pub/media/catalog/product/g/o/golden-state-warriors-nike-icon-swingman-jersey-stephen-curry-1_1.jpg",
+        "categoryId": 5,
+        "authorId": 1
+    },
+    {
+        "name": "BALENCIAGA TAPED TRACK PANT",
+        "description": "Athluxury continues to reign supreme on the streets, and with these black Balenciaga track pants it's easy to see why.",
+        "price": 2000000,
+        "stock": 4,
+        "imgUrl": "https://www.nighshop.com/pub/media/catalog/product/b/a/balenciaga-taped-track-pant-black-white-1_1.jpg",
+        "categoryId": 6,
+        "authorId": 2
+    },
+    {
+        "name": "PALM ANGELS NEW GOTHIC SWEAT PANT",
+        "description": "For sportswear with contemporary, street-ready edge, Palm Angels has things covered with these trackpants.",
+        "price": 1500000,
+        "stock": 5,
+        "imgUrl": "https://www.nighshop.com/pub/media/catalog/product/p/a/palm-angels-new-gothic-sweat-pant-black-white-1_1.jpg",
+        "categoryId": 6,
+        "authorId": 2
+    }
+]
