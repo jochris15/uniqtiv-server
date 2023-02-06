@@ -1,6 +1,6 @@
 # p2-cms-integration-server
-password database supabase : jglKP4fBRvnHFIui
-databse url : postgresql://postgres:jglKP4fBRvnHFIui@db.ifxmbilyiohvmoxmylqm.supabase.co:5432/postgres
+password database supabase : nixgANjtJDzrqcS0
+databse url : postgresql://postgres:nixgANjtJDzrqcS0@db.lxkkfbyhivnnkxaxhumt.supabase.co:5432/postgres
 ## **List Endpoints**
 
 List of Available Endpoints:
